@@ -154,3 +154,4 @@
       color: #805DD9 !important;
       background: #FFFFFF;}
 }
+    .button:focus { outline: none; }
